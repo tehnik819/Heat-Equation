@@ -1,0 +1,5 @@
+.idea
+mathematica.txt
+/build
+/out
+*.iml
