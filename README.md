@@ -12,6 +12,7 @@ We pose one-dimensional problem solving the heat equation in the nodes of the me
  - Boundary condition for x = 1
  - h - space step
  - tau - time step
-# Output
+
+# Output:
  -Expression for Wolfram Mathematica to plot of exact solution and approximate
 [Wikipedia]:https://en.wikipedia.org/wiki/Heat_equation
